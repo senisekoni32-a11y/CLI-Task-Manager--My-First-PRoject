@@ -1,2 +1,2 @@
-# CLI Task Manager||My First PRoject
-My first time working with TS
+# CLI Task Manager || My First Project
+My first time working with TS.
